@@ -1,6 +1,6 @@
 # PawSomeness_sample
 
-This is an practice project in which a simple dynamic web page is created which showcases an Animals NGO's services !
+This is an practice project in which a simple dynamic web page is created which showcases an Animals NGO's services provided by them, with help of Bootstrap as well !
 
 Images are attached for reference & download purpose as well!..
 
