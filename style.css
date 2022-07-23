@@ -1,0 +1,116 @@
+body{
+    /* overflow:0; */
+    background-color:burlywood;
+    margin: 0px;
+}
+
+.title{
+    color:cornflowerblue;
+}
+
+.title:hover{
+    transform: scale(1.1);
+    color: hotpink;
+}
+
+.navs:hover{
+    color: cornflowerblue;
+    transform: scale(1.1);
+}
+
+.menu{
+    background-color: teal;
+    color: black;
+}
+
+.dp:hover{
+    background-color: teal;
+    color:orange;
+}
+
+.input:hover{
+    background-color: gray;
+    color: black;
+}
+
+.search:hover{
+    transform: scale(1.1);
+}
+
+.img{
+    height: 40vh;
+    width: 30vw;
+}
+
+.cards{
+    margin-top: 2rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+
+.form{
+    background-color:palevioletred;
+    margin-top: 1.7rem;
+    margin-left: 1.3rem;
+    margin-right: 1.3rem; 
+    height: 90vh;
+    /* padding: 2px 2px; */
+    /* margin-bottom: -2rem; */
+}
+
+#scrollspyAdoptionForm{
+    margin-left: 44%;
+    font-size:x-large;
+    font-weight:700;
+    color: teal;
+}
+
+.bottom{
+    height: 65vh;
+    margin-left: 5rem;
+    margin-bottom: 1rem;
+    background-image: linear-gradient(to right, black,gray);
+}
+
+.address{
+    padding-left: 1rem;
+    color: darkgoldenrod;
+}
+
+.social{
+    background-image: linear-gradient(to right, black,gray);
+    /* padding-left: 1rem; */
+    color:orangered;
+    cursor: pointer;
+}
+
+.map{
+    height: 190px;
+    width: 190px;
+    /* margin-top: -12rem;
+    margin-left: 81%; */
+}
+
+.info{
+    color: black;
+    text-shadow: 2px;
+    font-weight: 600;
+    font-style: italic;
+}
+
+.info-mn{
+    text-shadow: 2px;
+    font-weight: 600;
+    font-style: italic;
+}
+
+.info-mn:hover{
+    color:white;
+    transform: scale(1.2);
+}
+
+.info:hover{
+    color: black;
+    transform: scale(1.2);
+}
+
